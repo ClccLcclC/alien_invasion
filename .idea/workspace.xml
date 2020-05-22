@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab8135d6-5b18-46ca-84cc-88e6ec558407" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="alien_invasion" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YIgDDsFA1ygowM93LrktMbip22" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.alien_invasion">
+    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alien_invasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/123.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alien_invasion (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alien_invasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alien_invasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alien_invasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mainloop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alien_invasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainloop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.alien_invasion" />
+        <item itemvalue="Python.123" />
+        <item itemvalue="Python.alien_invasion (1)" />
+        <item itemvalue="Python.game_functions" />
+        <item itemvalue="Python.mainloop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab8135d6-5b18-46ca-84cc-88e6ec558407" name="Default Changelist" comment="" />
+      <created>1582635400738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582635400738</updated>
+      <workItem from="1582635434263" duration="3909000" />
+      <workItem from="1582639410572" duration="1839000" />
+      <workItem from="1582687180112" duration="15460000" />
+      <workItem from="1582706986901" duration="7341000" />
+      <workItem from="1582723331555" duration="4347000" />
+      <workItem from="1582731742573" duration="5285000" />
+      <workItem from="1582737060478" duration="607000" />
+      <workItem from="1582771113885" duration="7033000" />
+      <workItem from="1582786216219" duration="6370000" />
+      <workItem from="1582794857621" duration="14183000" />
+      <workItem from="1582810204760" duration="10911000" />
+      <workItem from="1582862367684" duration="1162000" />
+      <workItem from="1582866505138" duration="5709000" />
+      <workItem from="1582872463636" duration="790000" />
+      <workItem from="1582882098030" duration="38000" />
+      <workItem from="1582885475620" duration="197000" />
+      <workItem from="1583503461666" duration="360000" />
+      <workItem from="1583588665184" duration="13000" />
+      <workItem from="1583848764330" duration="268000" />
+      <workItem from="1583850724230" duration="1622000" />
+      <workItem from="1584109529629" duration="609000" />
+      <workItem from="1584692349955" duration="72000" />
+      <workItem from="1584790847327" duration="251000" />
+      <workItem from="1584855718700" duration="16000" />
+      <workItem from="1588779505971" duration="1027000" />
+      <workItem from="1590139146651" duration="413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="214" key="GridCell.Tab.0.bottom" timestamp="1590139568594">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="4" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588784308668" />
+    <state width="1322" height="214" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590139568594" />
+    <state width="1322" height="214" key="GridCell.Tab.0.center" timestamp="1590139568594">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="4" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588784308668" />
+    <state width="1322" height="214" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1590139568594" />
+    <state width="1322" height="214" key="GridCell.Tab.0.left" timestamp="1590139568594">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="4" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588784308668" />
+    <state width="1322" height="214" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1590139568594" />
+    <state width="1322" height="214" key="GridCell.Tab.0.right" timestamp="1590139568594">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="4" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588784308668" />
+    <state width="1322" height="214" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1590139568594" />
+    <state width="1322" height="214" key="GridCell.Tab.1.bottom" timestamp="1590139568604">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="200" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584790920913" />
+    <state width="1322" height="214" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590139568604" />
+    <state width="1322" height="214" key="GridCell.Tab.1.center" timestamp="1590139568604">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="200" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584790920913" />
+    <state width="1322" height="214" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1590139568604" />
+    <state width="1322" height="214" key="GridCell.Tab.1.left" timestamp="1590139568594">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="200" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584790920912" />
+    <state width="1322" height="214" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1590139568594" />
+    <state width="1322" height="214" key="GridCell.Tab.1.right" timestamp="1590139568604">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="200" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584790920913" />
+    <state width="1322" height="214" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1590139568604" />
+    <state x="174" y="0" key="SettingsEditor" timestamp="1582635558494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="174" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582635558494" />
+    <state x="353" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1590139153072">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="353" y="217" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584855727404" />
+    <state x="353" y="229" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1590139153072" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582784493735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582784493735" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/alien_invasion$123.coverage" NAME="123 Coverage Results" MODIFIED="1584790899957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/alinen_invasion$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1582637929404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/alien_invasion$alien_invasion__1_.coverage" NAME="alien_invasion (1) Coverage Results" MODIFIED="1582885477695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/alien_invasion$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1590139399157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/alinen_invasion$mainloop.coverage" NAME="mainloop Coverage Results" MODIFIED="1582637807134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/alien_invasion$game_functions.coverage" NAME="game_functions Coverage Results" MODIFIED="1582707931942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
